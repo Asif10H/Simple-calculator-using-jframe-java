@@ -16,7 +16,7 @@ public class SimpleCalculator implements ActionListener {
 	 SimpleCalculator(){
 		 
 		 JFrame frame = new JFrame("Simple Calculator");
-		 JLabel textlabel = new JLabel("@Author Habibullah Asif(Facebook ID - Asif10h)",SwingConstants.CENTER);
+		 JLabel textlabel = new JLabel("Habibullah Asif(Facebook ID - Asif10h)",SwingConstants.CENTER);
 		 
 		 textField1 = new JTextField();
 		 textField1.setBounds(150,150,100,20);
